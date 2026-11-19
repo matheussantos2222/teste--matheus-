@@ -1,3 +1,6 @@
 Matheus Eduardo Santos
+<<<<<<< HEAD
 alteraçao 01
 
+=======
+>>>>>>> dc0255c692993b32101dc46cfabf32fe04fb1e5b
